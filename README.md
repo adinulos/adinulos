@@ -14,5 +14,5 @@ I am a data analytics student with a background in biology and neuroscience. My 
 - Data Science
 - Neuroscience
 - Bioinformatics
-- Health and Wellness 
+- Health & Wellness 
 - Entertainment & Music 
