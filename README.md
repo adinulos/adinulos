@@ -13,5 +13,6 @@ I am a data analytics student with a background in biology and neuroscience. My 
 ### ⚡ My interests ...
 - Data Science
 - Neuroscience
+- Bioinformatics
 - Health and Wellness 
 - Entertainment & Music 
